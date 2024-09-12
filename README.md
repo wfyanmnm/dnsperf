@@ -50,7 +50,7 @@ environment with autoconf, automake, libtool and pkgconfig.
 
 To install the dependencies under Debian/Ubuntu:
 ```
-apt-get install -y libssl-dev libldns-dev libck-dev libnghttp2-dev
+apt-get install -y libssl-dev libldns-dev libck-dev libnghttp2-dev libtool
 ```
 
 To install the dependencies under CentOS (with EPEL/PowerTools enabled):
